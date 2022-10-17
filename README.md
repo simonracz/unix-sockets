@@ -33,7 +33,7 @@ man 2 connect
 ```
 
 # BONUS
-New syscall [piddf_getfd](https://man7.org/linux/man-pages/man2/pidfd_getfd.2.html)
+New syscall [pidfd_getfd](https://man7.org/linux/man-pages/man2/pidfd_getfd.2.html)
 
 # Copy of notes.txt
 
